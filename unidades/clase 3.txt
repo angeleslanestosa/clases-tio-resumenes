@@ -1,1 +1,27 @@
-Cooperacion: lo que hace cada miembro del trabajo de manera individual y luego se vuelca todo e el trabajo, no hay interaccion con los miemros
+Cooperacion: lo que hace cada miembro del trabajo de manera individual y luego se vuelca todo e el trabajo, no hay interaccion con los miemros.
+
+Colaboracion: tanto i compañero de trabajo como yo participamos y realizamos el trabajo en conjunto.
+
+Matriz epacio/tiempo: nos habilita conjuto de posibilidades para hacer as efectiva la colaboracion
+- mismo tiempo -> sincronicas
+- mismo lugar -> colocadas
+- distinto tiempo -> asincronicas
+- distinto lugar -> remotas
+
+Principios de la colaboracion 
+- beneficio individual es imp
+- estrategia antes que la tec
+- escuchar a empeados
+- integrarse en flujo de trabajo 
+- crear ambiente de apoyo
+- adaptarse y evolucionar
+- persistencia
+
+Beneficios de la colaboracion 
+- productividad (personas trabajando en conjunto pueden realizar las tareas con mas rapidez)
+- calidad (trabajando de manera colaborativa es posible reducir el tiempo entre unidades de trabajo)
+- innovacion (en colaboracion pueden darse ideas mas innovadoras)
+- servicio al cliente (pueden resolverse problemas de manera mas efectiva si es en colaboracion)
+- desempeño financiero: (empresas colaborativas tienen crecimieto superior en ventas y finanzas)
+
+Requerimeintos para la colaoracion 
