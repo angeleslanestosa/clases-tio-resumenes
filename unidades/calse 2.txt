@@ -1,0 +1,45 @@
+Piramide organizacional
+- nivel estrategico (presidente, gg, directorio): proyecta politicas y estrategias, determina objetivos a largo plazo, tomas desiciones que afectan a toda la org.
+- nivel tactico (g de produc, rrhh): coordina act que se desarrollaran en el nivel operativo, las desiciones solo afectan a un sector esp.
+- nivel operativo (operarios, empleados adm): realizan tareas programadas por el nivel tactico que se llevan a cabo en la org. 
+
+Estructura de una org
+	- horizontal (trabajo se divide en tareas, por nivel de especializacion)
+	- vertical (trabajo se divide en torno a la capacidad de toma de desiciones, poder.
+
+ORGANIGRAMAS: representacion grafica de la estructura formal de una org, representan unidades en las que se agrupa las funciones que se llevan a cabo.
+
+Empresa: org que desarrolla actividades economicas y brida servicios con objetivos economicos, tiene fines de lucro, metas, rrhh, rec materiales.
+Para diseñar su estructura hay que tener en cuenta funciones cubiertas para cumplir objetivos, unidades en condiciones, eficiencia en las tareas.
+
+Funciones de la empresa
+- produccion
+- marketing
+- rrhh
+- admin
+- financiacion
+- idi (investigacion, desarrollo e innovaacion)
+
+Clasificacion de la empresa
+- actividad (primaria, sec y terciaria)
+- tamaño (grandes, med y peq)
+- propiedad de capital (publica, privada, mixta)
+- forma juridica (personales, persona juridica)
+- ambito de actividad (locales, regionales, nac y transnac)
+
+EMPRESAS DE BASE TECNOLOGICA (EBT): se basan en el uso intensivo del conocimiento cientifico y tecnico para mantener la competitividad. Cuentan con personal cualificado, producen bienes y servicios, capacidad de innovacion, capacidad de aprendizaje, se adptan con rapidez a cambios tec, gestionan los rrhh intensivamente.
+
+Innovacion tecnologica
+- invencion: generar una nueva idea basada en tec, capacidad o conocimiento.
+- desarrollo: convertir invension en producto.
+- implementacion: implementar la nueva idea, tec, capacidades o conocimientos. 
+
+TIPOS de innovacion tec
+	- en la estructura: modelo de negocio, procesos de gestion, estructura organizativa.
+	- en la oferta: funcionalidades de productos, sistemas de los produtos.
+	- en la experiencia: en el servicio que da la org, en anales de interaccion con en el cliente.
+
+REPOSITORIOS REMOTOS: versiones del proyecto que estan hospedadas en iternet u otra red, es ueno tener varios por backup, de test.
+
+GitHub: uno de los servidores mas usados de git, en el se encuentran los proyectos de software libres que existen.
+ 
