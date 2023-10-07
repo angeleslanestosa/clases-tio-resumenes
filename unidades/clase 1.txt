@@ -1,1 +1,46 @@
-Tecnología: app de conjunto de conocimientos y habilidades, con el objetivo de conseguir soluciones que permitan al humano resolver problemas. Es el conocimiento aplicado a una necesidad humana. 
+Tecnología: app de conjunto de conocimientos y habilidades, con el objetivo de conseguir soluciones que permitan al humano resolver problemas. Es el conocimiento aplicado a una necesidad humana.
+
+Información: base para tomar  decisiones, se necesitan datos, con algun contexto para que sea información para asi obtener conocimientos.
+
+Organización: grupo social de personas, tareas y administracion que interactuan en el marco de una estructura sistematica para cumpir objetivos.
+Sus elementos son:
+	- objetivos: fines de la org.
+	- metas: fines especificos cuantitativos.
+	- rrhh: personas que trabajan para la org.
+	- rec. materiaes: medios que usa la org para alcanzar fines. Hay físicos (materia prima), naturales (energia) y financieros (dinero).
+	- informacion: recurso que genera la mente humana con o sin tec.
+
+Clasificación de las org:
+	- finalidad: con o sin fines de lucro o con fines adm.
+	- formalidad: formales o informales.
+	- grado de centralizacion: locales, nacionales, internac.
+	- propiedad: publicas o privadas.
+	- toma de decisiones: horizontal, vertical, red.
+
+Cultura organizacional: conformada por valores, crencias, normas, comportamientos, conocimientos que son conocidos y compartidos por los miembros.
+Sus elementos son: 
+	- valores: creencias del grupo de la org.
+	- visiones: ideas de los lideres sobre el futuro.
+	- impulsos: frases que conceptual la vison de los lideres y que la org adopta.
+
+Cultura abierta: flexibles, abiertas a nuevos cambios y participativa con el personal.
+Cultura cerrada: jerarquicos y tradicionales.
+
+Sistema de control de versiones (git, mercurial, bazaar): sirve para registrar y guardar cambiosen archivos, ver lo que se modifico y reistrar cuando y quien lo hizo, volver a versiones anteriosres.
+- ventajas: flexibilidad ante modific, genera estadisticas, facilita trabajo en equipo y la adm.
+- desventajas: curva elevada de aprendizaje.
+
+Tipos de control de versiones:
+- centralizados (svn): requiere de conexion con un unico servidor para hacer registros nuevos.
+- distribuidos (git): no hay un unico servidor, se pueden registrar cambios sin conexion y replicar el rep.
+
+GIT
+- velocidad
+- diseño simple
+- apoyo al desarrollo no lineal
+- distribuido
+- capaz de manejar grandes proyectos eficazmente
+- usado por google, facebook, microsoft, linux
+- coserva una unica version de cada archivo
+- toma una "foto" (commit) de cambos periodicamente y queda en historial
+
