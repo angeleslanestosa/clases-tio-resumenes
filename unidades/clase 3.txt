@@ -25,3 +25,14 @@ Beneficios de la colaboracion
 - desempeño financiero: (empresas colaborativas tienen crecimieto superior en ventas y finanzas)
 
 Requerimeintos para la colaoracion 
+- capacidades de la colaboracion, como cultura abiertaa, estructura descentralizada y amplitud de la colab.
+- tecnologia de colaboracion, como el uso de esta para la implementacion y operaciones, y para la plaificacion estrategica.
+
+Herramintas colaborativas (git, trello, draw.io, google): conjunto de sistemas que permiten acceder a ciertos servicios para comunicarnos con nuestros compañeros de trabajo.
+
+Trabajo colaborativo: colaboracion de un conjunto de personas que trabajan juntas por  objetivo comun, y se basa en la inteligencia colectiva. Tiene una org horizontal de actividades, las tareas se reparten con equidad, tiene un marco de trabajo flexible.
+Trabajo en equipo: tiene una org vertical de actividades, las tareas son jerarquicas y se asigna a una persona o equipo especifico, marco de trabajo estatico, se respeta la estructura de la empresa. 
+
+BRANCH: linea de tiempo en nuestro proyecto, se compone de una secuncia de commits. Se usa para desarrollar nuevas funcionalidades, corregir errores, realizar pruebas. Se hacen branches para desarrollar software en paralelo e independiente entre los programadores, para no afectar al codigo pincipal y para disminuir errores. 
+ 
+
