@@ -1,0 +1,19 @@
+Desarrollo de sistemas
+- elementos clave: personas, procesos y tecnologias.
+
+Ciclo clasico de vida
+	- analisis: definicion del problema, identificacion de solucion, analisis de factibilidad, identificacion de riesgos.
+	- diseño: para el desarrollo un diseño logico y fisico, y para la adquisicion de sistema existente identificacion de partes a config y adaptacion.
+	- implementacion: para un nuevo desarrollo codficacion del sistema, y para la adquisicion de sistema exitente config y parametrizacion del sistema.
+	- prueba: comprobacion del funcionamiento del sistema, pruebas unitarias de sistemas, capacitaciones. 
+	- implantacion: implantar el nuevo sistema, estrategias posibles paralelas, estudi piloto, por fases.  
+	- optimizacion: monitoreos del sistema para detectar errores, modificaciones, mejoras. 
+
+
+Metodologia: conjunto de metodos que se usan para curir las actividades de un proceso determinado. 
+
+Metodologia del desarrollo de sistemas: conjunto de metodos que dan soporte a cada actividad dentro de las fases de un proyecto de sistemas (reingeieria del software, metodol estructuradas, rup, metodos agiles).
+
+Metodologias estructuradas: tecnicas orientadas a los procesos, son descendentes, son usadas para el enfoque de ciclo de vida tradicional, incluyen analisis estructurado (especificaciones de procesos), diseeño etructurado (diagrama de est) y programacion estructurada (diagrama de flujo de sistemas, estructuras de control).
+
+Metodos agiles:   
