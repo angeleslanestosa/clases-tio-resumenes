@@ -33,5 +33,11 @@ Ventajas del trabajo en equipo
 - agiliza planes y programas
 
 Conflictos en los equipos de trabajo: situaciones de crisis que surgen cuando las inquietudes de dos o mas personas no conectan.
-- efectos de un conflicto 
+ *efectos de un conflicto:
+	- positivos (aumenta creatividad, clarifica ideas, oportunidad para cambiar malas situaciones).
+	- negativos (disminuye productividad, desajuste temporal, tardanza en toma de deiciones).
+
+Reuniones en equipo de trabajo: preparar reunion, dirigirla, participar, cierre de reunion.
+
+
 
