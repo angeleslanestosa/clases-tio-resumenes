@@ -16,4 +16,85 @@ Metodologia del desarrollo de sistemas: conjunto de metodos que dan soporte a ca
 
 Metodologias estructuradas: tecnicas orientadas a los procesos, son descendentes, son usadas para el enfoque de ciclo de vida tradicional, incluyen analisis estructurado (especificaciones de procesos), diseeño etructurado (diagrama de est) y programacion estructurada (diagrama de flujo de sistemas, estructuras de control).
 
-Metodos agiles:   
+Metodos agiles
+- procesos de creacion de sistemas funcionales en poco tiempo.
+- proceso no secuencial.
+- usadas para el enfoque de prototipos.
+- colaboracion entre usuarios y especialistas de sistemas. 
+- no se genera casi documentacion.
+
+RUP (rational unified process): metodologia que divide el proceso en 4 faces, inicio, elaboracion, construccion y transicion. es utilizable para cualquier tipo de proyecto, es una metod herativa con desarrollo incremental. La doc se basa en diagramas, y para ello usa el uml (diag para el diseño, como diag de clase).
+
+Desarrollo orientado a objetos
+- objeto como unidad basica que encapsula sus datos y acciones que se pueden hacer sobre los mismos.
+- los objetos se relac entre si.
+- los objetos son reutilizables (desarrollo de frameworks), se agrupan en clases.
+- usado para el enfoque hibrido entre ciclo de vida tradicional y prototipos.
+
+Reingenieria de software: metodologia que ataca el problema del envejecimiento del software reciclandolo. se una para extraer la info de diseño y programacion de los sistemas existentes iguiendo los pasos de ingenieria inversa, modificacion del diseño y especificaciones de programa, e ingenieria hacia adelante. 
+
+Tendencias actuales, demandan:
+- componentes de software faciles de agregar, modificar, reemplazar (flexibles).
+- sistemas escalables.
+- conectividad con multiples plataformas.
+- cloud computing.
+
+Roles en los equipos de desarrollo de software
+
+Rol: tarea/responsabilidad asignada a cada persona en un equipo de trabajo. 
+
+PROGRAMADOR
+- deberes y responsabilidades:
+	- saber lenguaje de programacion
+	- escribir programas de comput
+	- actualizar programas
+	- solucionar problemas de programas
+	- probar programas de software
+
+- habilidades y competencias
+	- pensamiento analitico (los program informaticos necesitan comprender codigos complejos)
+	- atencicon al detalle (prestar atencion a cada linea de codigo)
+	- colaboracion (pueden necesitar la ayuda de otro depto o colega para solucionar problemas)
+
+
+DESARROLLADOR DE SOFTWARE
+- deberes y respnsabilidades:
+	- desarrollo y prueba para satisfacer a clientes
+	- desarrollar actualizaciones para apps existenres
+	- monitorear calidad y rendimiento de apps 
+	- documentar trabajo para referencia futura
+
+- hailidades y competencia:
+	- creatividad e innovacion (deben ser las mentes detras de las nuevas capacidades de software)
+	- hab interpersonales y de comunic (implica colab del equipo y se tendra q comunicar de manera clara ls instrucciones a los demas)
+	- hab analiticas (cambiar mejoras y creaciones)
+	- concentracion y enfoque (no ser propenso a distracciones para el exito)
+
+DESARROLLADOR WEB
+- deberes y respons:
+	- conocer lenguajes de codificacion de diseño web
+	- crear y probar apps 
+	- trabajar con graficos 
+	- solucionar problemas del sitio web 
+	- mantener y actualizar apps
+
+- habilidades y compet:
+	- orientado a detalles (resolver problemas, ocuparse de que no falten detalles)
+	- mutitarea (poder hacer multiples proyectos sin perder el plazo)
+	- automotivado (capaces de mantenerse en las tareas sin distracciones)
+	- resolucion de problemas (descubrir como traducir la vision de un ciente a un sitio web)
+	- bueno bajo presion (manejar la presion de hacer el trabajo cuando sea necesario)
+
+
+Gestion de config de software: practicas y herramientas tansversales al desarrollo de software para atacar incumbencias como, trazabilidad (gestion de versiones, de cambios, de requerimientos, de incidencias), reproducibilidad de raleases, comunicacion e interaccion, coordinacion e integracion del trabajo de dif miembros del equipo.
+
+SVC (sistema de versionado de codigo): permite compartir el codigo fuente y mantener registro de cambios, es la herramienta mas imp tanto que si se pierden los releases se pueden salvar en base al svc. Se basan en versionar archivos y carpetas (repos).
+
+Administracion colaborativa de proyectos: los proyecto necesitan coordinacion entre los dif equipos y clientes para desarrollar cualquier producto.
+
+TRELLO: herramienta de software, es una plataforma que se extiende y adapta al proceso de desarrollo de la empresa. Pueden crearse etiquetas segun el metodo de desarrollo. Permite gestionar el estado de las tarjetas a traves de estructuras de listas, las cuales son recopilacion de tarjetas. 
+
+- Tableros: en una coleccion de cards, cada uno tiene un nombre y todas las cards pertenecen a un tablero.
+- Butler: herramienta que brinda automatizacion e info a tableros.
+
+Draw.io: herramienta de diagramacion flexible que permite crear diagramas ded flujo, de proceso, organigramas. 

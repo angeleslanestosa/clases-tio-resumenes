@@ -1,0 +1,32 @@
+Estrategias para creacion de sistemas
+- desarrollo interno.
+- contratacion de empresas de desarollo o terciarizadas (outsoursing).
+- adquisicion de licencias de software.
+- colaboracion con startups o innovasion abierta.
+
+* Desarrollo interno, variantes:
+- desrrollo tradicional
+- low-code (simplifican el proceso de desarrollo al poporcionar herramientas visuales y componentes predefinidos)
+- no-code (ideales para automatzacion de flujo de trabajo, perite a usuarios sin conocimiento crear apps y sistemas mediante la configuracion)
+
+caracteristicas de low-code y no-code
+- visualizacion y diseño intuitivo
+- automatizacion de flujo de trabajo
+- desarrollo rapido
+- accesibilidad
+
+* Outsoursing: contrata desarrolladores/empresas de software independientes para crear sistemas personalizados.
+- especificaciones detalladas
+- seleccion de proveedores 
+- gestion del proyecto  
+- control de calidad
+- contratos y acuerdos de servicio
+
+* Adquisicion de licencias de software: implica la compra de las mismas con el software ya listo para usar.
+- evaluacion de software
+- personalizacion
+- actualizaciones y soporte
+
+* Colaboracion con startups o innovacion abierta: para desarrollar sistemas innovadores y soluciones tecnologicas.
+- seleccion de colaoradores 
+ 
