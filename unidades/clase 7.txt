@@ -63,4 +63,21 @@ Tiene 4 categorias:
 	- ingenieria 
 	- soporte 
 
-Representaciones de modelo  
+Representaciones del modelo: permiten a la org perseguir dif objetivos de mejora
+- vision continua: muestra la representacion de nivel de capacidad de cada area de proceso del modelo. 
+- vision escalonada: deefine a la org en su conjunto un nievl de madurez del 1 al 5.
+
+Nivel de capacidad: consecucion de la mejora de procesos de una org de areas de procesos individuales. 
+
+Niveles de madurez: consecucion de la mejora de procesos de una org en multiples areas de proceso.
+
+Gestion de requerimientos: gestion los requisitos de los productos y los componentes de producto del proyecto, y asegurar la alineacion entre esos requisitos y los planes y productos. 
+
+Gestion de configuracion (cm): establece y mantiene la integridad de los productos de trabajo, usando identificacion de la config, auditorias, control de config.
+
+Medicion y analisis: desarrolla y mantiene la capacidad de medicion usada para dar soporte a necesidades de info de gerencia.
+
+¿COMO EVALUAR EL NIVEL DE CMMI DE MI ORG?
+- El SEI tiene partners autorizados a evalucion y entrenamiento. La evaluacion la hace e partner mediante el metodo SCAMPI (standard cmmi appraisal method for process improvement), este se usa para evaluar el metodo cmmi de una org. Indica fortalezas y debilidades de los procesos, analiza las practicas hechas para medir el proceso.
+
+ 
