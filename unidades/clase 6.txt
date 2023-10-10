@@ -28,5 +28,7 @@ caracteristicas de low-code y no-code
 - actualizaciones y soporte
 
 * Colaboracion con startups o innovacion abierta: para desarrollar sistemas innovadores y soluciones tecnologicas.
-- seleccion de colaoradores 
+- seleccion de colaboradores 
+- co-creacion y experimentacion
+- gestion de riesgos 
  

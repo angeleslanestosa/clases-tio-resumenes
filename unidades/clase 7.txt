@@ -1,0 +1,66 @@
+Software: programa/conjuto de programas de computo, procedimienos, reglas, documentacion y daatos asociados, que forman parte de las operaciones de un sistema de computacion, es la parte no fisica.
+
+Lenguaje de program: conjunto de simbolos y reglas semanticas y sintacticas que definen el sigificado de sus elementos y expresiones. Hay de alto nivel  de bajo nivel (mas cercanas al hardware).
+
+El software como producto en la vision tradicional, local. 
+Y el software como servicio (SAAS) permite a los usuarios conectarse a apps basadas en la nube a traves de internet y usarlas. 
+Ventajas del SAAS:
+- menos inversiion inicial y riesgos
+- reduccion de costos 
+- actualizaciones y nuevas funcionalidades inmediatas
+- soprte mas agil y rapido
+
+Desventajas del SAAS: 
+- nivel bajo de confianza en seguridad de datos 
+- integracion con el resto de apps locales
+- necsidad de disponibilidad de datos en la nube 
+- sensacion de cautibidad del cliente 
+
+CLASIFICACION
+ + Software de sistema: servir a otros programas, se relaciona diretamente con el hardware y es empleado por diversos usuarios. Manaje etructuras compejas e interfaces externas.
+	- sistemas ooperativos (controla el hardware y proporciona interfaz entre usuario y pc)
+	- controladores de dispositivos (permite que el sist operativo interactue con un hardware especifico)
+	- heerramientas de diagnostic y mantenimiento (diagnostica problemas de hardware y hace tareas de mantenim en el sistema)
+
++ Software de programacion: conjunto de programas que nos permiten desarrollar, crear y modificar otros programas. Mediante este se escribe el conjunto de instrucciones en el codigo del programa:
+	- editores de texto
+	- compiladores
+	- interpretes
+	- enlazadores
+	- controladores de versiones
+	- herramientas para testing 
+
++ Software de aplicacion: hace que la pc coopere con el usuario en la realizacion de tareas tipicas humanas. Su clasificacion es:
+	- software de productividad (programas que nos ayudan a tener mejor rendimiento y eficacia)
+	- software de especialidad (programs hechos a medida para dif personales)
+	- software de entretenimiento (para juegos basados en la plataforma de la pc)
+	- software educativo (destinado a enseñanza y aprendizaje autonomo)
+	- software de domotica (programas que nos llevan a automatizar ciertos elementos dentro del hogar)
+
+
+Calidad: se relaciona con la exigencia de los consumidores respecto a la satisfaccion de sus necesidades.
+Las NECESIDADES son el conjunto de todas las caracteristicas de un producto o servicio que tegan importancia para el cliente. Estas pueden cambiar con el tiempo y se definen en terminos de:
+- seguridad
+- utilidad
+- versatilidad
+- compatibilidad con otros productos   
+- confiabilidad
+- bajos costos
+
+La calidad de un sutema/producto esta influenciada por la CALIDAD DEL PROCESO empleado para desarrollarlo y mantenerlo.
+
+CMMI (capanbility maturuty model integration): modelo de referencia que cubre las actividades para desarrollar tanto productos como servicios de calidad. Indica que es lo que se debe hacer y describe un camino evolutivo de mejora. Es la coleccion de buenas practicas que yudan a las org a mejorar sus procesos.
+
+Marco CMMI: proporciona estructura necesaria para los moelos y componentes de evaluacion de cmmi. Existen 3 modelos:
+	- CMMI-DEV: cuierto por empresas dedicadas al desarrollo y mantenimiento de software.
+	- CMMI-SVC: cubierto por empresas dedicadas al desarrollo y operacion de servicios.
+	- CMMI-ACQ: lo cubren empresas dedicadas a la adquisiciion de productos y servicios.
+
+El CMM-DEV fue el primer desarrollo, es un modelo de ref que proporciona un conjunto de buenas practicas que tratan las actividades de desarrollo de la org aplicada a produc y servicios.
+Tiene 4 categorias:
+	- gestion de procesos 
+	- gestion de proyectos
+	- ingenieria 
+	- soporte 
+
+Representaciones de modelo  
