@@ -80,4 +80,23 @@ Medicion y analisis: desarrolla y mantiene la capacidad de medicion usada para d
 ¿COMO EVALUAR EL NIVEL DE CMMI DE MI ORG?
 - El SEI tiene partners autorizados a evalucion y entrenamiento. La evaluacion la hace e partner mediante el metodo SCAMPI (standard cmmi appraisal method for process improvement), este se usa para evaluar el metodo cmmi de una org. Indica fortalezas y debilidades de los procesos, analiza las practicas hechas para medir el proceso.
 
+Certificacion de calidad: la ISO (international orgaization of standardization) es la encargada de la creacion y certificacion de estandares internac.
+Los principios de la norma son:
+- enfoque al cliente
+- liderazgo
+- participacion del personal 
+- enfoque en procesos
+- mejora continua
+
+ISO 20000: comprendido para las tecnologias de la informacion (ti).
+
+COBIT (control objectives for information and related technology): conjunto de herramientas orientadas a garantizar el control y seguimiento de gobernalidad de sistemas de info a largo pazo a traves de auditorias. Esta estructurado segun 34 procesos agrupados en 4 dominios:
+- planificacion y organizacion
+- adquisicion e implementacion 
+- entrega y soporte 
+- monitoreo
+
+ITIL (information technology infrastructure library): coleccion de mejoras para la adm efectiva de los sistemas de informacion.
+
+COBIT vs ITIL: el cobit se preocupa pricipalmente de orientar a las org en la implementacion, operacion y mejora de los procesos de gobernanza y gestion de TI. Itil ofrece orientaciones de buenas practicas para gestion y ejecucion de servicios de ti. 
  
